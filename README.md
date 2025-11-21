@@ -1,29 +1,29 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&width=700&height=80&lines=+Hi+I'm+Abdumalik+Wassie;+MERN+%7C+Flutter+%7C+Python;+%7C+Project+Manager" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&width=700&height=80&lines=+Hi+I'm+Abdumalik+Wassie;+MERN+%7C+Flutter+%7C+Python;Project+Manager" alt="Typing Animation" />
 </p>
 
-## 🛠️ Tech Stack & Tools
+   Tech Stack & Tools
 
 <div align="center">
 
-### 💻 **Frontend & Mobile**
+    **Frontend & Mobile**
 <br>
 <img src="https://skillicons.dev/icons?i=react,flutter,dart,html,css,js,ts,tailwind,bootstrap,materialui" />
 <br><br>
 
-### ⚙️ **Backend & Database**
+###  **Backend & Database**
 <br>
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,php,mongodb,mysql,postgres,firebase" />
 <br><br>
 
-### 🛠️ **Tools & Platforms**
+  **Tools & Platforms**
 <br>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,aws,linux,docker,nginx" />
 <br><br>
 
 </div>
 
-| 🎯 Project | 📝 Description | 🛠️ Technologies |
+|  Project |  Description | Technologies |
 |------------|---------------|-----------------|
 | **🏢 Telecom Management** | Advanced site management system with real-time monitoring | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) |
 | **🎓 School Management** | Comprehensive education platform for institutions | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) |
