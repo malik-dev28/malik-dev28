@@ -1,56 +1,47 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=500&color=6366F1&center=true&vCenter=true&width=600&height=50&lines=Hello+👋+I'm+Abdumalik+Wassie;Full+Stack+Developer;Problem+Solver" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&width=700&height=80&lines=✨+Hello+World!+I'm+Abdumalik+Wassie;💻+Full+Stack+Developer;🚀+MERN+%7C+Flutter+%7C+Python;🎯+Problem+Solver+%7C+Project+Manager" alt="Typing Animation" />
 </p>
 
-<div align="center">
-  
-![Stats](https://github-readme-stats.vercel.app/api?username=abdumalikwassie&show_icons=true&theme=transparent&hide_border=true&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdumalikwassie&layout=compact&theme=transparent&hide_border=true&title_color=6366F1&text_color=FFFFFF)
-
-</div>
-
-## 🛠 Tech Stack
-
-<div align="center">
-  
-**Frontend** • **Backend** • **Mobile** • **Tools**
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,flutter,python,postman,git" />
-
-</div>
-
-## 💼 Projects
-
-| Project | Tech | Description |
-|---------|------|-------------|
-| **🏢 Telecom Management** | `React` `Node.js` `MongoDB` | Site management system |
-| **🎓 School Management** | `React` `Express` `MongoDB` | Education platform |
-| **🧮 Voice Calculator** | `Flutter` `Firebase` | Speech recognition app |
-| **🤖 AI Chatbots** | `Python` `AI` | Conversational agents |
-| **🛒 E-Commerce** | `MERN` `Payment` | Shopping platform |
-| **🏥 Dr. Ethiopia** | `Flutter` `Firebase` | Healthcare system |
-
-## 📊 Activity
-
-<div align="center">
-  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdumalikwassie&theme=transparent&hide_border=true&stroke=6366F1)
-
-</div>
-
-## 📫 Contact
-
-<div align="center">
-  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-
-</div>
-
----
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-### 💡 **Ready to build your next project? Let's connect!**
+### 💻 **Frontend & Mobile**
+<br>
+<img src="https://skillicons.dev/icons?i=react,flutter,dart,html,css,js,ts,tailwind,bootstrap,materialui" />
+<br><br>
+
+### ⚙️ **Backend & Database**
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,php,mongodb,mysql,postgres,firebase" />
+<br><br>
+
+### 🛠️ **Tools & Platforms**
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,aws,linux,docker,nginx" />
+<br><br>
 
 </div>
+
+| 🎯 Project | 📝 Description | 🛠️ Technologies |
+|------------|---------------|-----------------|
+| **🏢 Telecom Management** | Advanced site management system with real-time monitoring | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) |
+| **🎓 School Management** | Comprehensive education platform for institutions | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) |
+| **🧮 Voice Calculator** | Flutter app with advanced speech recognition | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) |
+| **🤖 Python Chatbots** | AI-powered conversational agents | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![AI](https://img.shields.io/badge/AI-000000?style=flat) ![NLP](https://img.shields.io/badge/NLP-00D4FF?style=flat) |
+| **🛒 E-Commerce Platform** | Full-featured shopping experience | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) |
+| **🏥 Dr. Ethiopia** | Healthcare management system | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+
+</div>
+## 🎯 Currently Working On
+
+<div align="center">
+
+```javascript
+const currentWork = {
+  "🔥": "MERN Stack Development",
+  "📱": "Flutter Mobile Applications", 
+  "🤖": "AI & Machine Learning",
+  "⚡": "Real-time Applications",
+  "🎨": "UI/UX Optimization"
+};
