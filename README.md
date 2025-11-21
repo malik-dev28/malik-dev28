@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&width=700&height=80&lines=✨+Hello+World!+I'm+Abdumalik+Wassie;💻+Full+Stack+Developer;🚀+MERN+%7C+Flutter+%7C+Python;🎯+Problem+Solver+%7C+Project+Manager" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&width=700&height=80&lines=+Hi+I'm+Abdumalik+Wassie;+MERN+%7C+Flutter+%7C+Python;+%7C+Project+Manager" alt="Typing Animation" />
 </p>
 
 ## 🛠️ Tech Stack & Tools
