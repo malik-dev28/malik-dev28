@@ -2,25 +2,21 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&width=700&height=80&lines=+Hi+I'm+Abdumalik+Wassie;+MERN+%7C+Flutter+%7C+Python;Project+Manager" alt="Typing Animation" />
 </p>
 
-Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-Frontend & Mobile
-
+### 💻 **Frontend & Mobile**
 <br>
 <img src="https://skillicons.dev/icons?i=react,flutter,dart,html,css,js,ts,tailwind,bootstrap,materialui" />
 <br><br>
 
-###  **Backend & Database**
-
+### ⚙️ **Backend & Database**
 <br>
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,php,mongodb,mysql,postgres,firebase" />
 <br><br>
 
-
-  **Tools & Platforms**
-  
+### 🛠️ **Tools & Platforms**
 <br>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,aws,linux,docker,nginx" />
 <br><br>
