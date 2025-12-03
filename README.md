@@ -6,7 +6,7 @@
 
 <div align="center">
 
-### 💻 **Frontend & Mobile**
+### 💻 **Frontend & Moble**
 <br>
 <img src="https://skillicons.dev/icons?i=react,flutter,dart,html,css,js,ts,tailwind,bootstrap,materialui" />
 <br><br>
