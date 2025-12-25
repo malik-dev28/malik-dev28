@@ -17,7 +17,7 @@
 <br><br>
 
 ### 🛠️ **Tools  & Platforms**
-<br>
+<br>  
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,aws,linux,docker,nginx" />
 <br><br>
 
