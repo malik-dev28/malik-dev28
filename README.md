@@ -2,7 +2,7 @@
      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&width=700&height=80&lines=+Hi+I'm+Abdumalik+Wassie;+MERN+%7C+Flutter+%7C+Python;Project+Manager" alt="Typing Animation" />
 </p>
      
-## 🛠️ Tech Stack &  Tools 
+## 🛠️ Tech Stack &  Tools   
    
   <div align="center">
       
