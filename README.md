@@ -31,7 +31,7 @@
 | **🤖 Python Chatbots** | AI-powered conversational agents | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![AI](https://img.shields.io/badge/AI-000000?style=flat) ![NLP](https://img.shields.io/badge/NLP-00D4FF?style=flat) |
 | **🛒 E-Commerce Platform** | Full-featured shopping experience | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) |
 | **🏥 Dr. Ethiopia** | Healthcare management system | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
-
+  
 </div> 
 ## 🎯 Currently Working On
 
