@@ -16,7 +16,7 @@
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,php,mongodb,mysql,postgres,firebase" />
 <br><br>
 
-### 🛠️ **Tools  & Platforms**
+### 🛠️ **Tools  & Platforms**  
 <br>  
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,aws,linux,docker,nginx" />
 <br><br>
