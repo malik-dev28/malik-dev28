@@ -44,4 +44,4 @@ const currentWork = {
   "🤖": "AI & Machine Learning",
   "⚡": "Real-time Applications",
   "🎨": "UI/UX Optimization"
-};
+};  
